@@ -1,3 +1,3 @@
-from .gdtad import SODA
+from .plr import PseudoLabelRefining
 
-__all__ = ['SODA']
+__all__ = ['PseudoLabelRefining']
